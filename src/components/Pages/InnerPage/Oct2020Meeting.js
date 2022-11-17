@@ -23,10 +23,10 @@ const Oct2022Meeting = () => {
                 <h2><strong> October Minutes of the Meeting</strong></h2>
                 <p><b>Date:</b> 9/10/2022</p>
 
-                <p><strong>Members Present:</strong> Kingsley Agoha, Austine Okeagu, Chuks Ogujawa, Charles Obodoechina, Francis Udoku, Emeka Onwunzo, Billy Banda, Emmanuel </p>
-                <p><strong>Absentees:</strong> Chijioke and Ugo, Chidi, Edozie, Chidiebere</p>
+                <p><strong>Members Present:</strong> Kingsley Agoha, Austine Okeagu, Chuks Ogujawa, Charles Obodoechina, Francis Udoku, Emeka Onwunzo, Emmanuel </p>
+                <p><strong>Absentees:</strong> Chijioke, Ugo, Chidi, Edozie, Chidiebere and Billy</p>
 
-                <p><strong>Proceedings:</strong> Meeting was called to order at 5pm. The open prayer was said Emmanuel. The minutes were taken by the chairman and previous minutes were also read him. 
+                <p><strong>Proceedings:</strong> Meeting was called to order at 5pm. The open prayer was said Emmanuel. The minutes of the meeting were taken by the chairman and previous minutes were also read him. 
 
             <h4>Agenda 1</h4>
                 </p>
@@ -41,8 +41,7 @@ const Oct2022Meeting = () => {
                 </p>
 
                 <p>
-                  Chuks asked if we have followed all the necessary steps according to constitution?
-                  Francis answered that all steps has been followed and there is no need to write any letter as its not stipulated in the constitution.
+                  Chuks asked if we have followed all the necessary steps according to constitution. Francis answered that all steps has been followed and there is no need to write any letter as its not stipulated in the constitution.
                   Chuks agreed with Francis, that the constitution is what we have to follow
                   Chairman close Elokas case - emphasising that Eloka have told two members officially that he is no more a member after being inactive for more than six months and failed to engage in any activities without any reason whosoever. Therefore if he wishes to be a member , he will follow the returning members process
 
