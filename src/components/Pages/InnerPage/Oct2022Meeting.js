@@ -78,7 +78,7 @@ const Oct2022Meeting = () => {
 
                   <BUTTON as={Link} to='Oct2019Meeting'
                   className='px-5 py-2 text-decoration-none text-light shadow-none border-none outline-line'>
-                  Minutes of the Meeting for October | 13/10/2019</BUTTON>
+                  Minutes of the Meeting for Oct | 13/10/2019</BUTTON>
 
                 <BUTTON className='constution shadow-none border-none outline-line px-5 py-2 text-decoration-none text-light '
                   as={Link} to='/Minutes'>
