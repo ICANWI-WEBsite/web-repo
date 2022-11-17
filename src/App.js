@@ -39,6 +39,7 @@ import Match2022Meeting from './components/Pages/InnerPage/Match2022Meeting';
 import June2022Meeting from './components/Pages/InnerPage/June2022Meeting'; 
 import Sept2022Meeting from './components/Pages/InnerPage/Sept2022Meeting';
 import Oct2019Meeting from './components/Pages/InnerPage/Oct2019Meeting';
+import Oct2022Meeting from './components/Pages/InnerPage/Oct2022Meeting';
 
  const App =() =>{
 const[islogged, setIslogged] = useState(false)
@@ -70,6 +71,7 @@ function refreshPage() {window.reload(false);}
  <Route path='/June2022Meeting' element={<June2022Meeting/>}/>
  <Route path='/Sept2022Meeting' element={<Sept2022Meeting/>}/>
  <Route path='/Oct2019Meeting' element={<Oct2019Meeting/>}/>
+ <Route path='/Oct2022Meeting' element={<Oct2022Meeting/>}/>
  <Route path='/Constitution' element={<Constitution/>}/>
  <Route path='/SignIn' element={<SignIn/>}/>
  </Routes> 

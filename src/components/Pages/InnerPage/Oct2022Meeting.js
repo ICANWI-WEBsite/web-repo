@@ -26,30 +26,12 @@ const Oct2022Meeting = () => {
                 <p><strong>Members Present:</strong> Kingsley Agoha, Austine Okeagu, Chuks Ogujawa, Charles Obodoechina, Francis Udoku, Emeka Onwunzo, Emmanuel </p>
                 <p><strong>Absentees:</strong> Chijioke, Ugo, Chidi, Edozie, Chidiebere and Billy</p>
 
-                <p><strong>Proceedings:</strong> Meeting was called to order at 5pm. The open prayer was said Emmanuel. The minutes of the meeting were taken by the chairman and previous minutes were also read him. 
-
-            <h4>Agenda 1</h4>
+                <p><strong>Proceedings:</strong> Meeting was called to order at 5pm. The open prayer was said Emeka Onwunzo. The minutes of the meeting were taken by the chairman and previous minutes were also read him. Motion to approve the minutes was made by francis, seconded by Kingsley. 
                 </p>
-                <p>
-                  Francis explained in full details that the organizers sent a Thank You message to the Igbo association especially for our attendance and our full participation which made the event very colourful.
-
-                  Vice also thanks all members for their participation especially Mr Francis who chaired and lead the event to our association.
-
-                  Chairman asked Ugo and Emeka the feedback from Eloka,
-                  Ugo replied that he spoke with Eloka and got the answer that Eloka is no more interested
-
-                </p>
+               <h4>Agenda 1</h4>
 
                 <p>
-                  Chuks asked if we have followed all the necessary steps according to constitution. Francis answered that all steps has been followed and there is no need to write any letter as its not stipulated in the constitution.
-                  Chuks agreed with Francis, that the constitution is what we have to follow
-                  Chairman close Elokas case - emphasising that Eloka have told two members officially that he is no more a member after being inactive for more than six months and failed to engage in any activities without any reason whosoever. Therefore if he wishes to be a member , he will follow the returning members process
-
-                </p>
-                <p>
-                  Chairman asked about the visitors/ new friends. Chuks answered that he spoke with Chidi who is in Litterkenny , Chuks said that Chidi will love to be back but he is having some health challenges and will be back as soon as possible.
-
-                  hairman asking about Chijioke, Billy stated that he will get in touch with him which Chairman agree to ring Billy for an update.
+                <strong className='text-primary'>Charity status update: </strong>Francis updated the members following a discussion at Mr Gabriel's that the constitution had been circulated as agreed and members had acknowledged receipt. They also have promised to provide feedback shortly. Although no feedback has yet been recevied but he believes that they are working on it as they do communicate regularly. Francis apologises for not being able to work on the application process as he has been busy developing our website.  
                 </p>
 
                 <p><strong>Matters Arising:</strong> Mr Francis suggested that we upgrade our masquerade because it will attract more events to the association,
@@ -86,9 +68,17 @@ const Oct2022Meeting = () => {
                   className='px-5 py-2 text-decoration-none text-light shadow-none border-none outline-line'>
                   Minutes of the Meeting for May | 8/05/2022</BUTTON>
 
+                  <BUTTON as={Link} to='/June2022Meeting' 
+                  className='px-5 py-2 text-decoration-none text-light shadow-none border-none outline-line'>
+                    Minutes of the Meeting for June | 12/05/2022</BUTTON>
+
                 <BUTTON as={Link} to='/Sept2022Meeting'
                   className='px-5 py-2 text-decoration-none text-light shadow-none border-none outline-line'>
                   Minutes of the Meeting for Sept | 18/05/2022</BUTTON>
+
+                  <BUTTON as={Link} to='Oct2019Meeting'
+                  className='px-5 py-2 text-decoration-none text-light shadow-none border-none outline-line'>
+                  Minutes of the Meeting for October | 13/10/2022</BUTTON>
 
                 <BUTTON className='constution shadow-none border-none outline-line px-5 py-2 text-decoration-none text-light '
                   as={Link} to='/Minutes'>
