@@ -50,6 +50,7 @@ function refreshPage() {window.reload(false);}
 
  return (
      <>
+<Router>
 <AuthProvider>
 <APP className='p-0 m-0 position-relative bg-slate-900 text-light h-100'>
 <AppHeader>
@@ -78,6 +79,7 @@ function refreshPage() {window.reload(false);}
     </AppHeader>
    </APP> 
 </AuthProvider>
+</Router>
    </>
   );
 }

@@ -31,7 +31,7 @@ const Oct2022Meeting = () => {
                <h4>Agenda 1</h4>
 
                 <p>
-                <strong className='text-primary'>Charity status update: </strong>Francis updated the members following a discussion at Mr Gabriel's that the constitution had been circulated as agreed and members had acknowledged receipt, and had also promised to provide feedback shortly. Although no feedback has yet been recevied but he believes that the work is in progress. Francis also said that he has been extremely busy working on our website, so he has not been able to devote enough time to the application project.
+                <strong className='text-primary'>Charity status update:</strong>Francis updated the members following a discussion at Mr Gabriel's that the constitution had been circulated as agreed and members had acknowledged receipt, and had also promised to provide feedback shortly. Although no feedback has yet been recevied but he believes that the work is in progress. Francis also said that he has been extremely busy working on our website, so he has not been able to devote enough time to the application project.
                 </p>
                 <p>
                 Kingley expressed gratitude to Francis for all his work. He noted that the first step in implementing the status application should be to sign up on the Irish charity regulator's website. Secondly, the executive committee should be responsible for filling out the form - to avoid further delays. Chuck also said it's critical that the executive gets involved in filling out the application if we want to reach our goal. The Chairman also approved the idea, assuring members that an executive meeting would be convened as soon as possible to address the issue once and for all.
