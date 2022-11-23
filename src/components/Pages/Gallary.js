@@ -32,7 +32,7 @@ import Modals from '../Header/DropdownContainer/Modals'
 const Gallary = () => {
   return (
  <>
- { <PrivatePageLink mode={Modals} className='fixed top-0' />}
+ { <PageNavigstions mode={Modals} className='fixed top-0' />}
  <Containers className='fluid min-w-full min-h-full mt-5' style={{background:'#0644a72'}}>
  
 
