@@ -1,5 +1,5 @@
 
-import react, {useState} from 'react';
+import react, {useState, useEffect} from 'react';
 import Register from './components/Header/DropdownContainer/Register';
 import Modals from './components/Header/DropdownContainer/Modals';
 import  './CSS/App.scss';
@@ -55,7 +55,7 @@ function refreshPage() {window.reload(false);}
 <APP className='p-0 m-0 position-relative bg-slate-900 text-light h-100'>
 <AppHeader>
 <Routes>
- <Route exact path='/' element={<Home/>}/>
+ <Route exact path='*' element={<Home/>}/>
  <Route path='/Gallary' element={<Gallary/>}/>
  <Route path='/Videos' element={<Videos/>}/> 
 <Route path='/Minutes' element={
